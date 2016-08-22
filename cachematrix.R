@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The function takes an invertible matrix and creates a matrix object to cache its inverse. 
+## It then calcualtes the inverse if its a new matrix or retrieve the result from the cache.
 
 ## This function takes a squared matrix and caches it.
 
